@@ -1,5 +1,5 @@
 # customer-relationship-management
-This is a program implement the following function:\
+This is a program implement the following function:
 1. Add
 2. Update 
 3. Delete
